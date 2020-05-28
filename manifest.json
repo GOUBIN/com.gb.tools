@@ -1,0 +1,14 @@
+{
+    "name": "com.gb.tools",
+    "displayName": "mytoolstest",
+    "version": "1.0.1",
+    "unity": "2019.3.11",
+    "description": "this is a test tools package",
+    "keywords": ["key X", "key Y", "key Z"],
+    "category": "Controllers",
+    "dependencies": {
+        "com.unity.package-1": "1.0.0",
+        "com.unity.package-2": "2.0.0",
+        "com.unity.package-3": "3.0.0"
+    }
+}
