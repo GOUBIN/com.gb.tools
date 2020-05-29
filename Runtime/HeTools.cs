@@ -1,11 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class HeTools : MonoBehaviour
+namespace GBGames
 {
+    public class HeTools : MonoBehaviour
+    {
 
-    public static int heAge = 100;
+        public static int heAge = 100;
 
- 
+
+    }
 }
